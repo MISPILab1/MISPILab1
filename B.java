@@ -23,4 +23,8 @@ public class B implements K {
     public float ff() {
         return 3.14;
     }
+
+    public byte oo() {
+        return 2;
+    }
 }
