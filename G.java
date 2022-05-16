@@ -47,4 +47,8 @@ public class G extends null {
     public double ee() {
         return 500.100;
     }
+
+    public void ab() {
+        return;
+    }
 }

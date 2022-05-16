@@ -47,4 +47,8 @@ public class B extends null implements K {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public long ac() {
+        return 333;
+    }
 }
