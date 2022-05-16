@@ -27,4 +27,8 @@ public class D implements K {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
