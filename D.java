@@ -19,4 +19,8 @@ public class D implements K {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
