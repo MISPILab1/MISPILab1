@@ -23,4 +23,8 @@ public class D implements K {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
