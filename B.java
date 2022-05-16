@@ -31,4 +31,8 @@ public class B implements K {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
