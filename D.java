@@ -1,4 +1,4 @@
-public class D implements K {
+public class D extends null implements K {
 
     private long b = 4321;
 
@@ -20,15 +20,31 @@ public class D implements K {
         return getClass();
     }
 
-    public void aa() {
-        System.out.println("void aa");
-    }
-
     public java.util.Random mm() {
         return new java.util.Random();
     }
 
+    public void aa() {
+        System.out.println("void aa");
+    }
+
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 }

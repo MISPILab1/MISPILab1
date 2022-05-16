@@ -1,4 +1,4 @@
-public class B implements K {
+public class B extends null implements K {
 
     private String d = "hello";
 
@@ -20,6 +20,10 @@ public class B implements K {
         return getClass();
     }
 
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
     public float ff() {
         return 3.14;
     }
@@ -28,7 +32,19 @@ public class B implements K {
         return 2;
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+    public int af() {
+        return -1;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 }

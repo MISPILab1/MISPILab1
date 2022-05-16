@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private double a = 100.500;
 
@@ -22,5 +22,25 @@ public class G {
 
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 }
