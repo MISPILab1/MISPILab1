@@ -35,4 +35,8 @@ public class D implements K {
     public int af() {
         return -1;
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }

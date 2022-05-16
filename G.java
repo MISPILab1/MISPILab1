@@ -27,4 +27,8 @@ public class G {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }

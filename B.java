@@ -35,4 +35,8 @@ public class B implements K {
     public double ee() {
         return 0.000001;
     }
+
+    public int cc() {
+        return 39;
+    }
 }
