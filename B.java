@@ -19,12 +19,4 @@ public class B implements K {
     public java.lang.Class qq() {
         return getClass();
     }
-
-    public float ff() {
-        return 3.14;
-    }
-
-    public byte oo() {
-        return 2;
-    }
 }

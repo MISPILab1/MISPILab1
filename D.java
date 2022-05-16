@@ -19,12 +19,4 @@ public class D implements K {
     public java.lang.Class qq() {
         return getClass();
     }
-
-    public void aa() {
-        System.out.println("void aa");
-    }
-
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
 }

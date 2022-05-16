@@ -11,12 +11,4 @@ public class G {
     public Object gg() {
         return new java.util.Random();
     }
-
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
 }
