@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private double a = 100.500;
 
@@ -14,5 +14,37 @@ public class G {
 
     public void bb() {
         System.out.println(getClass().getName());
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public double ee() {
+        return 500.100;
     }
 }
