@@ -27,4 +27,8 @@ public class B implements K {
     public byte oo() {
         return 2;
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
