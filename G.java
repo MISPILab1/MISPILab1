@@ -51,4 +51,8 @@ public class G extends null {
     public void ab() {
         return;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

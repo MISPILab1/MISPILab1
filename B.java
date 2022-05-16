@@ -51,4 +51,8 @@ public class B extends null implements K {
     public long ac() {
         return 333;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }

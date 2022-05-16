@@ -7,4 +7,8 @@ public class K extends null {
     public String kk() {
         return "Yes";
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }
